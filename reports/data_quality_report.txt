@@ -1,0 +1,8 @@
+Data Quality Summary
+
+1. Successfully loaded all 10 provided CSV files.
+2. Printed shape, data types and sample records.
+3. Checked missing values.
+4. Downloaded NAV data from mfapi.in.
+5. Saved NAV data as CSV files.
+6. Data ready for analysis.
